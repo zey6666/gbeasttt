@@ -7,6 +7,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3-red.svg)
 ![GSAP](https://img.shields.io/badge/GSAP-3-red.svg)
 
+![image](https://github.com/user-attachments/assets/30a3d0c9-df7a-4a16-b3f7-198962dce80b)
+
+
 ## ✨ Features
 
 - 🎨 &nbsp;Modern gradient design
