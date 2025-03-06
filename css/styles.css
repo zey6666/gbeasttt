@@ -163,7 +163,7 @@
 }
 
 .gradient-bg {
-  background: linear-gradient(45deg, #dc2626, #991b1b);
+  background: linear-gradient(45deg, #00ffbd, #15cf9f);
 }
 
 @media (min-width: 640px) {
