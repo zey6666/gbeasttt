@@ -1,64 +1,64 @@
 const commandsData = {
   category1: {
     icon: "📜",
-    title: "Category 1",
+    title: "Basic Command",
     commands: [
       {
-        name: "/command1",
-        description: "Description of command1",
+        name: "/help",
+        description: "All Information About Bot",
         permission: "All",
       },
       {
-        name: "/command2",
-        description: "Description of command2",
+        name: "BotSupport",
+        description: "About Bot!",
         permission: "All",
       },
     ],
   },
   category2: {
     icon: "⚙️",
-    title: "Category 2",
+    title: "Command System",
     commands: [
       {
-        name: "/command3",
-        description: "Description of command3",
+        name: "/applications",
+        description: "Application System",
         permission: "Admin",
       },
       {
-        name: "/command4",
-        description: "Description of command4",
+        name: "/ticket",
+        description: "Advanced Ticket System",
         permission: "Admin",
       },
     ],
   },
   category3: {
-    icon: "🎮",
-    title: "Category 3",
+    icon: "🕋",
+    title: "Embed Command",
     commands: [
       {
-        name: "/command5",
-        description: "Description of command5",
+        name: "/embed save",
+        description: "Save an embed for Later use",
         permission: "All",
       },
       {
-        name: "/command6",
-        description: "Description of command6",
+        name: "/embed announce",
+        description: "Send an announcement with a saver or new embed",
         permission: "All",
       },
     ],
   },
   category4: {
     icon: "🛠️",
-    title: "Category 4",
+    title: "Mod Command",
     commands: [
       {
-        name: "/command7",
-        description: "Description of command7",
+        name: "/ban",
+        description: "ban a user",
         permission: "Mod",
       },
       {
-        name: "/command8",
-        description: "Description of command8",
+        name: "/kick",
+        description: "Kick a user",
         permission: "Mod",
       },
     ],
