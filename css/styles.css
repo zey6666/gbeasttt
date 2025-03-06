@@ -11,7 +11,7 @@
 }
 
 .gradient-bg {
-  background: linear-gradient(-45deg, #00ffbd, #ef4444, #b91c1c, #00ffbd);
+  background: linear-gradient(-45deg, #40E0D0, #ef4444, #b91c1c, #40E0D0);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
 }
@@ -163,7 +163,7 @@
 }
 
 .gradient-bg {
-  background: linear-gradient(45deg, #00ffbd, #00ffbd);
+  background: linear-gradient(45deg, #40E0D0, #40E0D0);
 }
 
 @media (min-width: 640px) {
