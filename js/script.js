@@ -48,17 +48,17 @@ const commandsData = {
     ],
   },
   category4: {
-    icon: "🛠️",
-    title: "Mod Command",
+    icon: "❄",
+    title: "More Commands",
     commands: [
       {
-        name: "/ban",
-        description: "ban a user",
+        name: "DM,FUN,MUSIC SYSTEM,WELCOME SYSTEM,GIVEAWAY",
+        description: "etc..",
         permission: "Mod",
       },
       {
-        name: "/kick",
-        description: "Kick a user",
+        name: "ANIME COMMANDS,BASIC COMMANDS,UTILITY COMMANDS,MODERATION COMMANDS",
+        description: "etc..",
         permission: "Mod",
       },
     ],
