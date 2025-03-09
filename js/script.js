@@ -1,3 +1,4 @@
+import { Analytics } from "@vercel/analytics/react"
 const commandsData = {
   category1: {
     icon: "📜",
@@ -13,6 +14,7 @@ const commandsData = {
         description: "About Bot!",
         permission: "All",
       },
+      <Analytics />
     ],
   },
   category2: {
